@@ -1,0 +1,2 @@
+# DiscordJisho
+Jisho Bot
